@@ -10,4 +10,4 @@ build:
 test:
   stage: test
   script: 
-      -echo "testeadno el proyecto"
+      -echo "testeadno el proyecto "
